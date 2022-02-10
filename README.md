@@ -7,7 +7,7 @@
 
 
 ## LANGUAGES
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusakinvova&layout=compact" alt="kusakinvova's github top-langs">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusakinvova&layout=compact" alt="kusakinvova's github top-langs" >
 
 
 
