@@ -15,6 +15,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kusakinvova)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kusakinvova)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <!--
