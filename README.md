@@ -1,25 +1,42 @@
 # Hi there 👋
 
-## My name is Vladimir!
+## My name is Kusakin Vladimir
 
-## STATS
-<p align="left">
-  <a href="https://github.com/kusakinvova"><img src="https://github-readme-stats.vercel.app/api?username=kusakinvova&hide_border=true&show_icons=true" alt="kusakinvova's github stats"></a>
-</p>
+I have over 10 years of experience in web development, during which time I’ve created numerous E-commerce websites, landing pages, and corporate websites. I enjoy tackling complex tasks that involve the use of new technologies.
 
+Qualities: teamwork, responsibility, communication skills, adaptability, attentiveness, and self-reliance.
 
-## LANGUAGES
+## Stack
 
+Frontend development:
+ReactJS, JavaScript, Next.js, Redux Toolkit, RTK Query, jQuery, TypeScript <img src="./assets/icon_typescript.png" alt="" >, HTML5 <img src="./assets/icon_html5.png" alt="" >, CSS3 <img src="./assets/icon_css3.png" alt="" >, Bootstrap, Materializecss, SCSS(Sass), Vue;
+
+Backend development: PHP(1С-Bitrix, Joomla, Drupal, Wordpress, Simpla, Symphony), MySQL, Python (Django), PostgreSql, Node.js;
+
+Version Control System: Git <img src="./assets/icon_git.png" alt="" >, Mercurial(HG);
+
+Other: Docker (Docker composer) <img src="./assets/icon_docker.png" alt="" >, Bash, LAMP, Webpack, Eslint, Socket.IO;
+
+## Сontacts
+
+<img src="./assets/icon_linkedin.png" alt="kusakinvova's in linkedin" > - https://www.linkedin.com/in/kusakinvladimir/
+
+<img src="./assets/icon_telegram.png" alt="kusakinvova's in telegram" > - https://t.me/kusakinvladimir
+
+<img src="./assets/icon_twitter.png" alt="kusakinvova's in twitter" > - https://twitter.com/KusakinVova
+
+## Stats and languages
+
+<a href="https://github.com/kusakinvova"><img src="https://github-readme-stats.vercel.app/api?username=kusakinvova&hide_border=true&show_icons=true" alt="kusakinvova's github stats"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusakinvova&layout=compact" alt="kusakinvova's github top-langs" >
 
-
-
+<!--
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kusakinvova)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kusakinvova)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<!--
+
 **KusakinVova/kusakinvova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -44,7 +61,7 @@ Here are some ideas to get you started:
 ### [CV && Deploy :fire: ](https:///)
 
 
-![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red) 
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=red)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-HTML/Pug-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-SCSS/CSS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=purple)
