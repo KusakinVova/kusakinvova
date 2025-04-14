@@ -1,27 +1,18 @@
 # Hi there 👋
 
-## My name is Kusakin Vladimir
+## My name is Kusakin Vova
 
-I have over 10 years of experience in web development, during which time I’ve created numerous E-commerce websites, landing pages, and corporate websites. I enjoy tackling complex tasks that involve the use of new technologies.
-
-Qualities: teamwork, responsibility, communication skills, adaptability, attentiveness, and self-reliance.
+Full Stack Engineer with over 10 years of experience in the IT industry. Specializes in building and launching projects from scratch. Successfully refactored large-scale systems and implemented architectural improvements, increasing development speed by 30–50% and doubling the number of orders while maintaining performance and reliability. Proficient in JavaScript, TypeScript, React, PHP, Node.js, and other technologies, consistently delivering high-quality, scalable solutions in fast-paced and dynamic environments.
 
 ## Stack
 
-Frontend development:
-ReactJS, JavaScript, Next.js, Redux Toolkit, RTK Query, jQuery, TypeScript <img src="./assets/icon_typescript.png" alt="" >, HTML5 <img src="./assets/icon_html5.png" alt="" >, CSS3 <img src="./assets/icon_css3.png" alt="" >, Bootstrap, Materializecss, SCSS(Sass), Vue;
-
-Backend development: PHP(1С-Bitrix, Joomla, Drupal, Wordpress, Simpla, Symphony), MySQL, Python (Django), PostgreSql, Node.js;
-
-Version Control System: Git <img src="./assets/icon_git.png" alt="" >, Mercurial(HG);
-
-Other: Docker (Docker composer) <img src="./assets/icon_docker.png" alt="" >, Bash, LAMP, Webpack, Eslint, Socket.IO;
+React, Next.js, Node.js, Redux, RTK Query, jQuery, TypeScript, HTML5, CSS3, Bootstrap, Materialize, SCSS(Sass), Vue, JavaScript, PHP(1С-Bitrix, Joomla, Drupal, Wordpress, Simpla, Symphony), MySQL, Python (Django), PostgreSql, Git, Mercurial(HG), Docker (Docker composer), Bash, LAMP, Webpack, Eslint, Socket.IO;
 
 ## Сontacts
 
-<img src="./assets/icon_linkedin.png" alt="kusakinvova's in linkedin" > - https://www.linkedin.com/in/kusakinvladimir/
+<img src="./assets/icon_linkedin.png" alt="kusakinvova's in linkedin" > - https://www.linkedin.com/in/kusakinvova/
 
-<img src="./assets/icon_telegram.png" alt="kusakinvova's in telegram" > - https://t.me/kusakinvladimir
+<img src="./assets/icon_telegram.png" alt="kusakinvova's in telegram" > - https://t.me/kusakinvova
 
 <img src="./assets/icon_twitter.png" alt="kusakinvova's in twitter" > - https://twitter.com/KusakinVova
 
