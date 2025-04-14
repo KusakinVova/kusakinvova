@@ -15,13 +15,13 @@ React, Next.js, Node.js, Redux, RTK Query, jQuery, TypeScript, HTML5, CSS3, Boot
 <img src="./assets/icon_telegram.png" alt="kusakinvova's in telegram" > - https://t.me/kusakinvova
 
 <img src="./assets/icon_twitter.png" alt="kusakinvova's in twitter" > - https://twitter.com/KusakinVova
-
+<!--
 ## Stats and languages
 
 <a href="https://github.com/kusakinvova"><img src="https://github-readme-stats.vercel.app/api?username=kusakinvova&hide_border=true&show_icons=true" alt="kusakinvova's github stats"></a>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kusakinvova&layout=compact" alt="kusakinvova's github top-langs" >
 
-<!--
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kusakinvova)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kusakinvova)](https://github.com/ryo-ma/github-profile-trophy)
